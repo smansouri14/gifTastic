@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title {
+    width: 100%;
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.player {
+    padding: 5px;
+    margin: 10px;
+   
+}
+
+#bottom {
+    
+    width: 100%;
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px;
+
+}
