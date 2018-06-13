@@ -13,18 +13,62 @@
     padding: 30px;
 }
 
+#container {
+    text-align: center;
+}
 .player {
     padding: 5px;
     margin: 10px;
-   
 }
 
-#bottom {
-    
+#top {
     width: 100%;
-    background: blue;
+    background: #2d4b53;
     color: white;
     text-align: center;
     padding: 30px;
-
 }
+
+
+#bottom {
+    width: 100%;
+    background: #2d4b53;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+#cannon {
+    width: 8%;
+    height: 75%;
+}
+
+#add-player {
+    background: #006480;
+    color: white;
+    margin-bottom:10px;
+}
+ 
+.player {
+    background: #006480;
+    color: whitesmoke;
+    border: solid, 6px;
+    border-color: black;
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    height:200px;
+}
+
+#gifs {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.soccer {
+    margin-left:25%;
+    margin-right: 25%;
+}
+
