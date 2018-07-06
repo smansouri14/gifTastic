@@ -1,4 +1,5 @@
 # gifTastic
+### link to demo https://smansouri14.github.io/gifTastic/
 
 ### When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
 
